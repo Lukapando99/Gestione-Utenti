@@ -13,7 +13,7 @@
         try {
             echo $r->send()->getBody();
         } catch (HttpException $ex) {
-            echo $ex;
+            echo (" ecco il valore di ex :$ex");
         }
         
  
