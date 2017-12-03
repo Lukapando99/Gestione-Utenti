@@ -1,5 +1,5 @@
 <?php 
-	require_once("../FoursquareApi.class.php");
+	require_once("FoursquareApi.class.php");
 	
 	// This file is intended to be used as your redirect_uri for the client on Foursquare
 	
